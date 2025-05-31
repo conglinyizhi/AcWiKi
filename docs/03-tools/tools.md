@@ -142,7 +142,7 @@ GitHub 访问神器
 
 更多规则，可以在 Github 上查找。
 
-### [网易UU远程](https://uuyc.163.com/)
+### [网易 UU 远程](https://uuyc.163.com/)
 
 流畅、好用、延迟低的远程操控软件，可以用你的移动设备远程操控电脑。功能丰富，对远程游戏适配好，最重要的是目前免费。目前支持 Android、iOS、MacOS 和 Windows。
 
@@ -201,6 +201,10 @@ YouTube 双语字幕，同时显示两种语言字幕，支持自定义样式。
 ### [Chrome 插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes?tab=readme-ov-file)
 
 为优秀的 Chrome 插件写一本中文说明书，让 Chrome 插件英雄们造福人类~
+
+### [pakku](https://s.xmcp.ltd/pakku)
+
+合并大量弹幕为一条弹幕，仅工作在 bilibili.com
 
 ### AdGuard
 
