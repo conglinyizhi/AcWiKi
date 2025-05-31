@@ -125,6 +125,7 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 - [GitLab](https://gitlab.com/) 托管大量开源软件，项目，工具，类似于 GitHub
 - [小众软件](https://www.appinn.com/) 适合搜索各个垂类的软件、工具，但是不一定是开源的
 - [Flathub](https://flathub.org/) 收集了大量 Linux 软件
+- [KDE 应用程序](https://apps.kde.org/zh-cn/) 开发了很多跨平台的实用工具，不过有一些是专门面向 Linux 开发的
 
 部分 Linux 发行版可以在网站中搜索软件包，需要知道英文名
 
