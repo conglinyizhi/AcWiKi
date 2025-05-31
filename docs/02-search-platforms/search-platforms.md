@@ -126,6 +126,11 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 - [小众软件](https://www.appinn.com/) 适合搜索各个垂类的软件、工具，但是不一定是开源的
 - [Flathub](https://flathub.org/) 收集了大量 Linux 软件
 
+部分 Linux 发行版可以在网站中搜索软件包，需要知道英文名
+
+- [Debian - Debian 搜索软件包](https://packages.debian.org/index)
+- [Arch Linux - Package Search](https://archlinux.org/packages/)
+
 ### 编程疑难问题（建议用英文提问）
 
 > 提问前请先思考，我的问题能让人明白吗、我的信息足够全能让他人复现问题吗、我的疑惑之前有人已经问过吗
