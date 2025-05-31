@@ -162,6 +162,16 @@ GitHub 访问神器
 
 terminal 软件，可以在手机上编程、写小工具等
 
+### [Tasker](https://tasker.joaoapps.com/)
+
+根据时间、地点、应用等自动调整手机设置（静音课堂、开灯到家）、执行任务（一键签到、管理权限），解放双手，玩转个性化自动化。
+
+### [Auto.js 6](https://github.com/SuperMonster003/AutoJs6) 的社区分支版本
+
+- 文档： <https://docs.autojs6.com/>
+
+Android 平台支持无障碍服务的 JavaScript 自动化工具 (Auto.js 二次开发项目)
+
 ## Linux
 
 ### [LazyVim](https://github.com/LazyVim/LazyVim?tab=readme-ov-file)
